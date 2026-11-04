@@ -1,6 +1,11 @@
 {
  "easy": [
   {
+   "name": "Steve",
+   "time": 294,
+   "date": "2026-11-04"
+  },
+  {
    "name": "Savanna G",
    "time": 299,
    "date": "2026-11-01"
@@ -14,11 +19,6 @@
    "name": "Sarah Jean",
    "time": 348,
    "date": "2026-11-01"
-  },
-  {
-   "name": "Steve",
-   "time": 415,
-   "date": "2026-11-04"
   },
   {
    "name": "Onewith",
