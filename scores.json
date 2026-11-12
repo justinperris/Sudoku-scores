@@ -55,6 +55,11 @@
  ],
  "hard": [
   {
+   "name": "Larry Stevens",
+   "time": 956,
+   "date": "2026-11-12"
+  },
+  {
    "name": "Steve",
    "time": 1000,
    "date": "2026-11-04"
