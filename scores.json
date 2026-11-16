@@ -26,6 +26,11 @@
    "date": "2026-11-01"
   },
   {
+   "name": "Phillip G",
+   "time": 392,
+   "date": "2026-11-16"
+  },
+  {
    "name": "Larry Stevens",
    "time": 493,
    "date": "2026-11-10"
@@ -34,11 +39,6 @@
    "name": "Onewith",
    "time": 577,
    "date": "2026-11-07"
-  },
-  {
-   "name": "Phillip G",
-   "time": 802,
-   "date": "2026-11-16"
   }
  ],
  "medium": [
